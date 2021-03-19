@@ -1,11 +1,9 @@
 New to programing.
-Planning to sell websites for 50-100$ Starting off with landing pages.
-Plays lots of games So I might not get to your responses Fast.
-If you need anything contact me at savgesays@gmail.com
-Current prices are as folow.
-Landing Page - 25$
-Domanin -30$ (depends)
-Template - (varys, Am not good at templates)
-Full website - 100$
 
-Good Luck Coding fellow coders.
+
+
+- 👋 Hi, I’m @SpaceTheCoder
+- 👀 I’m interested in ... Creating A.Is and Mods for games.
+- 🌱 I’m currently learning ... c++ and python
+- 💞️ I’m looking to collaborate on ... Creating FREE undetected cheats and A.I's for games.
+- 📫 How to reach me ... @RYQON3D
